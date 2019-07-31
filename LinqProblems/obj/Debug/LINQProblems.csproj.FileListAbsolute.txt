@@ -1,0 +1,7 @@
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\bin\Debug\LINQProblems.exe.config
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\bin\Debug\LINQProblems.exe
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\bin\Debug\LINQProblems.pdb
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\obj\Debug\LINQProblems.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\obj\Debug\LINQProblems.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\obj\Debug\LINQProblems.exe
+C:\Users\Eric\source\repos\LINQProblems\LINQProblems\obj\Debug\LINQProblems.pdb

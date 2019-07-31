@@ -10,6 +10,9 @@ namespace LINQProblems
     {
         static void Main(string[] args)
         {
+            LinqPractice practice = new LinqPractice();
+            Console.WriteLine(practice.AtoZWithFrequency("terrill"));
+            Console.ReadKey();
         }
     }
 }
